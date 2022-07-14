@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My website
+title: Eric Landgrebe
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: My Projects, Thoughts, and Work Experience
 
 # GitHub Actions
 repository: "VincentTam/beautiful-jekyll"
