@@ -17,7 +17,7 @@ At Cornell, I lead the [Cornell University Unmanned Air Systems team](https://cu
 ### Work Experience
 I currently work at Meta on large scale Machine Learning for Ads Ranking. I have worked on a variety of problems ranging from AutoML for large-scale model retraining, efficient feature representations through quantization, and microservice design for internal tools.
 
-Previously I interned at Meta researching fast approximation algorithms for NP-hard problems on graphs, such as weighted set cover and node-weighted steiner tree/steiner arborescence using Integer Linear Programs (ILPs), meta-heuristic search, and other other approaches.
+Previously I interned at Meta researching fast approximation algorithms for NP-hard problems on graphs, such as weighted set cover and node-weighted steiner tree using Integer Linear Programs (ILPs), meta-heuristic search, and other other approaches.
 
 
 ### Interests
