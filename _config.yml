@@ -19,7 +19,7 @@ repository: "VincentTam/beautiful-jekyll"
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # Your name to show in the footer
-author: Some Person
+author: Eric Landgrebe
 
 # --- List of links in the navigation bar --- #
 
@@ -49,14 +49,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "elandgre@gmail.com"
+#  facebook: deanattali
+#  github: daattali
+  twitter: EricLandgrebe
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+   linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
