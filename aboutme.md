@@ -14,7 +14,10 @@ At Cornell, I lead the [Cornell University Unmanned Air Systems Team](https://cu
 [Reflection Mechanisms as an Alignment target: A survey](https://www.lesswrong.com/posts/XyBWkoaqfnuEyNWXi/reflection-mechanisms-as-an-alignment-target-a-survey-1)
 
 ### Work Experience
-I current work at Meta on large scale Machine Learning for Ads Ranking
+I currently work at Meta on large scale Machine Learning for Ads Ranking. I have worked on variety of problems ranging from AutoML for large-scale model retraining, efficient feature representations through quantization, and microservice design for internal tools.
+
+Previously I interned at Meta researching fast approximation algorithms for NP-hard problems on graphs, such as weighted set cover and node-weighted steiner tree/steiner arborescence using Integer Linear Programs (ILPs), meta-heuristic search, and other other approaches.
+
 
 ### Interests
 I am interested broadly in Deep Learning, as well as technical, philosophical, and social problems related to the creation of safe Artifical General Intelligence (AGI) that is aligned with human values
